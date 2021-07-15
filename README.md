@@ -1,1 +1,1 @@
-=URUCHOM.PROGRAM(c:\programdata\powershell.exe)
+=URUCHOM.PROGRAM(calc.exe)
