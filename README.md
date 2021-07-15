@@ -1,1 +1,0 @@
-=URUCHOM.PROGRAM(calc.exe)
