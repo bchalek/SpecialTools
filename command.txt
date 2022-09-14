@@ -1,1 +1,1 @@
-(whoami /all & hostname & ipconfig)
+/bin/bash -c '(whoami & hostname & ifconfig) > <out>'
